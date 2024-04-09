@@ -1,0 +1,20 @@
+{
+  "blockId": "GHghAKqUkf9mpuGZMxMZV",
+  "name": "9Apr_B1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/main.git",
+    "ssh": "git@github.com:grgshiji/main.git",
+    "branch": "block_9Apr_B1"
+  },
+  "parentBlockIDs": [
+    "rvFBZ966xhSxpuGdqwuA1"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "rvFBZ966xhSxpuGdqwuA1",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/main.git",
+    "ssh": "git@github.com:grgshiji/main.git",
     "branch": "block_9Apr"
   },
   "parentBlockIDs": [],
@@ -12,5 +12,10 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "9Apr_B1": {
+      "directory": "9Apr_B1"
+    }
+  }
 }
