@@ -16,6 +16,9 @@
   "dependencies": {
     "9Apr_B1": {
       "directory": "9Apr_B1"
+    },
+    "9Apr_B3": {
+      "directory": "9Apr_B3"
     }
   }
 }
